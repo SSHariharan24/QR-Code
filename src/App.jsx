@@ -60,6 +60,6 @@ return (<div className="app-container">
 		<button className="download-button" disabled={loading} onClick={downloadQR}>Download QR Code </button>
 
 	</div>
-	<p className="footer">Desinged By <a href="">HariharanSS</a></p>
+	<p className="footer">Desinged By <a href="https://sshariharan24.github.io/My-Portfolio-Site/">HariharanSS</a></p>
 </div>);
 };
